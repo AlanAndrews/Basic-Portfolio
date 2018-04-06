@@ -63,20 +63,20 @@ h1 {
 }
 
 #about {
-    position: fixed;
+    position: absolute;
     right: 10%;
 }
 
 #portfolio {
     /* margin-right: 5% */
-    position: fixed;
+    position: absolute;
     right: 20%;
 }
 
 
 #contact {
     /* margin-right: 5% */
-    position: fixed;
+    position: absolute;
     right: 30%;
 }
 
